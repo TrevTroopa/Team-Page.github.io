@@ -1,4 +1,4 @@
-# Team-Page.github.io
+# Meet our Team!
 <html>
 <head>
    <h1 style="color: #1a4d2e;">Management Team</h1>
